@@ -1,0 +1,184 @@
+{
+    "crimes" : [
+
+        {
+            incident: "Duty on Striking an Unattended Vehicle",
+            reportNumber: "160004",
+            dateReported: "01/03/2016",
+            dateOccurred: "12/12/2015",
+            timeOccurred: "0745-1050",
+            location: "Commuter Lot",
+            disposition: "Inactive"
+        },
+        {
+            incident: "Possession of Fictitious License or ID",
+            reportNumber: "160005",
+            dateReported: "01/05/2016 - 1628",
+            dateOccurred: "01/05/2016",
+            timeOccurred: "1628",
+            location: "Hughes Trigg Student Center",
+            disposition: "Conduct Referral"
+        },
+        {
+            incident: "Criminal Trespass",
+            reportNumber: "160007",
+            dateReported: "01/06/2016 - 1602",
+            dateOccurred: "01/06/2016", 
+            timeOccurred: "1602",
+            location: "Fondren Science Center",
+            disposition: "Arrest"
+        },
+        {
+            incident: "Burglary of a Habitation",
+            reportNumber: "160010",
+            dateReported: "01/09/2016 - 0914",
+            dateOccurred: "01/09/2016",
+            timeOccurred: "0300-0900",
+            location: "Hillcrest Manor Apartment",
+            disposition: "Active"
+        },
+        {
+            incident: "Theft",
+            reportNumber: "160011",
+            dateReported: "01/09/2016 - 1629",
+            dateOccurred: "01/09/2016",
+            timeOccurred: "1629",
+            location: "Crow Building",
+            disposition: "Inactive"
+        },
+        {
+            incident: "Possession of Fictitious License or ID",
+            reportNumber: "160013",
+            dateReported: "01/11/2016 - 1158",
+            dateOccurred: "01/11/2016",
+            timeOccurred: "1158",
+            location: "Smith Hall",
+            disposition: "Conduct Referral"
+        },
+        {
+            incident: "Possession of Marijuana & Possession of Fictitious License or ID",
+            reportNumber: "160014",
+            dateReported: "01/11/2016 - 1859",
+            dateOccurred: "01/11/2016",
+            timeOccurred: "1859",
+            location: "Morrison McGinnis Hall",
+            disposition: "Conduct Referral"
+        },
+        {
+            incident: "Fire Alarm",
+            reportNumber: "160015",
+            dateReported: "01/12/2016 - 0217",
+            dateOccurred: "01/12/2016",
+            timeOccurred: "0217",
+            location: "Sigma Chi House",
+            disposition: "Closed"
+        },
+        {
+            incident: "Possession of Fictitious License or ID",
+            reportNumber: "160016",
+            dateReported: "01/12/2016 - 0743",
+            dateOccurred: "01/12/2016",
+            timeOccurred: "0743",
+            location: "SMU Police Department",
+            disposition: "Conduct Referral"
+        },
+        {
+            incident: "Harassment",
+            reportNumber: "160019",
+            dateReported: "01/12/2016 - 1609",
+            dateOccurred: "01/12/2016",
+            timeOccurred: "1609",
+            location: "Hughes Trigg Student Center",
+            disposition: "Active"
+        },
+        {
+            incident: "Consumption of Alcohol by a Minor",
+            reportNumber: "160021",
+            dateReported: "01/13/2016 - 0211",
+            dateOccurred: "01/13/2016",
+            timeOccurred: "0211",
+            location: "Cockrell McIntosh Hall",
+            disposition: "Conduct Referral"
+        },
+        {
+            incident: "Consumption of Alcohol & Failure to Identify & Possession of Fictitious License or ID",
+            reportNumber: "160022",
+            dateReported: "01/13/2016 - 0317",
+            dateOccurred: "01/13/2016",
+            timeOccurred: "0317",
+            location: "Phi Delta Theta House",
+            disposition: "Conduct Referral"
+        },
+        {
+            incident: "Credit Card or Debit Card Abuse",
+            reportNumber: "160024",
+            dateReported: "01/13/2016 - 1336",
+            dateOccurred: "01/13/2016",
+            timeOccurred: "1336",
+            location: "Florence Hall",
+            disposition: "Active"
+        },
+        {
+            incident: "Failure to Identify",
+            reportNumber: "160026",
+            dateReported: "01/13/2016 - 2103",
+            dateOccurred: "01/13/2016",
+            timeOccurred: "2103",
+            location: "2800 SMU Boulevard",
+            disposition: "Arrest"
+        },
+        {
+            incident: "Fire Alarm",
+            reportNumber: "160027",
+            dateReported: "01/14/2016 - 1300",
+            dateOccurred: "01/14/2016",
+
+            location: "3160 Daniel Ave.",
+            disposition: "Closed"
+        },
+        {
+            incident: "Theft",
+            reportNumber: "160028",
+            dateReported: "01/14/2016 - 1617",
+            dateOccurred: "01/14/2016",
+            timeOccurred: "1617",
+            location: "6100 Bishop Blvd.",
+            disposition: "Inactive"
+        },
+        {
+            incident: "Fire Alarm",
+            reportNumber: "160029",
+            dateReported: "01/14/2016 - 2026",
+            dateOccurred: "01/14/2016",
+            timeOccurred: "2026",
+            location: "Beta Theta Pi House",
+            disposition: "Closed"
+        },
+        {
+            incident: "Consumption of Alcohol by a Minor",
+            reportNumber: "160030",
+            dateReported: "01/15/2016 - 0121",
+            dateOccurred: "01/15/2016",
+            timeOccurred: "0121",
+            location: "Armstrong Residential Commons",
+            disposition: "Conduct Referral"
+        },
+        {
+            incident: "Theft",
+            reportNumber: "160033",
+            dateReported: "01/15/2016 - 1356",
+            dateOccurred: "01/13/2016 - 01/14/2016",
+            location: "Umphrey Lee Center",
+            disposition: "Active"
+        },
+        {
+            incident: "Theft",
+            reportNumber: "160034",
+            dateReported: "01/15/2016 - 1609",
+            dateOccurred: "01/15/2016", 
+            timeOccurred: "1200 - 1400",
+            location: "Owens Art Center",
+            disposition: "Active"
+        }
+    ]
+}
